@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I’m Grant.
+  Hi 👋, I’m Grant!
 </h1>
 
 - 👀 I’m interested in exploring new technologies and learning new skills as a curious self-learner. 
