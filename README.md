@@ -3,7 +3,7 @@
 </h1>
 
 - 👀 I’m interested in exploring new technologies and learning new skills as a curious self-learner. 
-- 🌱 I’m currently learning as much as I can with a focus on Networking, AWS, and working with APIs.
+- 🌱 I’m currently learning IT foundations with a focus on Networking, AWS, and working with APIs.
 
 <!---
 GrantMcGill88/GrantMcGill88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
